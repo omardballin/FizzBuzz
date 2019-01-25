@@ -1,5 +1,5 @@
 #FizzBuzz Challenge
-
+#By: Omar Diab
 for number in range (0, 101):
     if number == 0:
         continue
